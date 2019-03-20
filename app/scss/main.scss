@@ -53,7 +53,8 @@ b, strong {
 }
 
 .header__row{
-        padding-top: 45px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .btn-cities{
@@ -134,8 +135,24 @@ b, strong {
 }
 
 .header{
-background: url('../img/header-img.png') center 15% no-repeat;
-height: 100vh;
+
+    height: 100px;
+   
+}
+.sticky-header{
+	 position: fixed;
+    width: 100%;
+    
+    z-index: 999;
+    background-color: hsla(0,0%,100%,.95);
+    border-radius: 5px;
+    box-shadow: 0 5px 10px rgba(0,0,0,.1);
+   opacity: 1;
+    transition: opacity .2s;
+    will-change: opacity;
+}
+.img-section img{
+	    margin: 0 auto;
 }
 .choose__city_title{
 	text-align: center;
@@ -143,13 +160,13 @@ height: 100vh;
 hr.left{
 	display:inline-block;
 	
-	width:46%;
+	width:42%;
 }
 
 hr.right{
 	display:inline-block;
 	
-	width:46%;
+	width:42%;
 }
 .choose__city_cities{
 	padding-top: 20px;
@@ -169,4 +186,78 @@ hr.right{
 .event_img{
 	width: 100%;
 }
+
+.event_descr_title{
+	    font-family: 'Micra-Bold', sans-serif;
+	    font-size: 29px;
+	    color: #fff;
+}
+
+.city__event_descr hr{
+	border: 0;
+    clear: both;
+    display: inline-block;
+    width: 120px;
+    background-color: #fff;
+    height: 5px;
+}
+
+.event_descr_text{
+	font-family: 'Pragmatica', sans-serif;
+    color: #fff;
+    font-size: 16px;
+    width: 70%;
+}
+
+.choose__city_title h1{
+	text-transform: uppercase;
+    font-family: 'Pragmatica', sans-serif;
+    background: -webkit-linear-gradient(45deg, #1f5da5, #6e1b6c, #c20d19);
+    background: -o-linear-gradient(45deg, #1f5da5, #6e1b6c, #c20d19);
+    background: linear-gradient(45deg, #1f5da5, #6e1b6c, #c20d19);
+    font-size: 26px;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 600;
+    line-height: 200px;
+    display: inline-block;
+    margin: 0 auto;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.bordered:after {
+    content: '';
+	position: absolute;
+    top: 25%;
+    width: 20%;
+    border-right: 1px solid #adb2ba;
+    content: "";
+    right: 0;
+    width: 0;
+    height: 33%;
+}
+
+a.city_link{
+	color:#000;
+	font-family: 'Micra', sans-serif;
+	font-weight: 600;
+}
+
+a.city_link:hover{
+	color:#000;
+text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 @import "media"; // Always at the end
