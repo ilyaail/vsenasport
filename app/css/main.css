@@ -13,6 +13,20 @@
 
 @font-face {
   font-family: "roboto-example";
+  font-weight: normal;
+  font-style: normal;
+  src: font-url("../fonts/RobotoRegular/RobotoRegular.eot");
+  src: font-url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix") format("embedded-opentype"), font-url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"), font-url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "roboto-example";
+  font-weight: normal;
+  font-style: normal;
+  src: font-url("../fonts/RobotoRegular/RobotoRegular.eot");
+  src: font-url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix") format("embedded-opentype"), font-url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"), font-url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "roboto-example";
   font-weight: bold;
   font-style: normal;
   src: url("../fonts/RobotoBold/RobotoBold.eot");
@@ -23,6 +37,20 @@
   font-weight: bold;
   font-style: normal;
   src: font-url "../fonts/RobotoBold/RobotoBold.woff"; }
+
+@font-face {
+  font-family: "roboto-example";
+  font-weight: bold;
+  font-style: normal;
+  src: font-url("../fonts/RobotoBold/RobotoBold.eot");
+  src: font-url("../fonts/RobotoBold/RobotoBold.eot?#iefix") format("embedded-opentype"), font-url("../fonts/RobotoBold/RobotoBold.woff") format("woff"), font-url("../fonts/RobotoBold/RobotoBold.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "roboto-example";
+  font-weight: bold;
+  font-style: normal;
+  src: font-url("../fonts/RobotoBold/RobotoBold.eot");
+  src: font-url("../fonts/RobotoBold/RobotoBold.eot?#iefix") format("embedded-opentype"), font-url("../fonts/RobotoBold/RobotoBold.woff") format("woff"), font-url("../fonts/RobotoBold/RobotoBold.ttf") format("truetype"); }
 
 @font-face {
   font-family: "Pragmatica";
@@ -36,6 +64,74 @@
   font-weight: normal;
   font-style: normal;
   src: font-url "../fonts/Pragmatica/Pragmatica.woff"; }
+
+@font-face {
+  font-family: "Pragmatica";
+  font-weight: normal;
+  font-style: normal;
+  src: font-url("../fonts/Pragmatica/Pragmatica.eot");
+  src: font-url("../fonts/Pragmatica/Pragmatica.eot?#iefix") format("embedded-opentype"), font-url("../fonts/Pragmatica/Pragmatica.woff") format("woff"), font-url("../fonts/Pragmatica/Pragmatica.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Pragmatica";
+  font-weight: normal;
+  font-style: normal;
+  src: font-url("../fonts/Pragmatica/Pragmatica.eot");
+  src: font-url("../fonts/Pragmatica/Pragmatica.eot?#iefix") format("embedded-opentype"), font-url("../fonts/Pragmatica/Pragmatica.woff") format("woff"), font-url("../fonts/Pragmatica/Pragmatica.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Micra-Bold";
+  font-weight: normal;
+  font-style: normal;
+  src: url("../fonts/Micra/Micra-Bold.eot");
+  src: url("../fonts/Micra/Micra-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/Micra/Micra-Bold.woff") format("woff"), url("../fonts/Micra/Micra-Bold.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Micra-Bold";
+  font-weight: normal;
+  font-style: normal;
+  src: font-url "../fonts/Micra/Micra-Bold.woff"; }
+
+@font-face {
+  font-family: "Micra-Bold";
+  font-weight: normal;
+  font-style: normal;
+  src: font-url("../fonts/Micra/Micra-Bold.eot");
+  src: font-url("../fonts/Micra/Micra-Bold.eot?#iefix") format("embedded-opentype"), font-url("../fonts/Micra/Micra-Bold.woff") format("woff"), font-url("../fonts/Micra/Micra-Bold.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Micra-Bold";
+  font-weight: normal;
+  font-style: normal;
+  src: font-url("../fonts/Micra/Micra-Bold.eot");
+  src: font-url("../fonts/Micra/Micra-Bold.eot?#iefix") format("embedded-opentype"), font-url("../fonts/Micra/Micra-Bold.woff") format("woff"), font-url("../fonts/Micra/Micra-Bold.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Micra";
+  font-weight: normal;
+  font-style: normal;
+  src: url("../fonts/Micra/Micra.eot");
+  src: url("../fonts/Micra/Micra.eot?#iefix") format("embedded-opentype"), url("../fonts/Micra/Micra.woff") format("woff"), url("../fonts/Micra/Micra.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Micra";
+  font-weight: normal;
+  font-style: normal;
+  src: font-url "../fonts/Micra/Micra.woff"; }
+
+@font-face {
+  font-family: "Micra";
+  font-weight: normal;
+  font-style: normal;
+  src: font-url("../fonts/Micra/Micra.eot");
+  src: font-url("../fonts/Micra/Micra.eot?#iefix") format("embedded-opentype"), font-url("../fonts/Micra/Micra.woff") format("woff"), font-url("../fonts/Micra/Micra.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Micra";
+  font-weight: normal;
+  font-style: normal;
+  src: font-url("../fonts/Micra/Micra.eot");
+  src: font-url("../fonts/Micra/Micra.eot?#iefix") format("embedded-opentype"), font-url("../fonts/Micra/Micra.woff") format("woff"), font-url("../fonts/Micra/Micra.ttf") format("truetype"); }
 
 /*!
  * Bootstrap Reboot v4.0.0 (https://getbootstrap.com)
@@ -2023,7 +2119,8 @@ strong {
   float: right; }
 
 .header__row {
-  padding-top: 45px; }
+  padding-top: 20px;
+  padding-bottom: 20px; }
 
 .btn-cities {
   background: transparent; }
@@ -2096,19 +2193,35 @@ strong {
   color: #000; }
 
 .header {
-  background: url("../img/header-img.png") center 15% no-repeat;
-  height: 100vh; }
+  height: 100px; }
+
+.sticky-header {
+  position: fixed;
+  width: 100%;
+  z-index: 999;
+  background-color: rgba(255, 255, 255, 0.95);
+  border-radius: 5px;
+  -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+  opacity: 1;
+  -webkit-transition: opacity .2s;
+  -o-transition: opacity .2s;
+  transition: opacity .2s;
+  will-change: opacity; }
+
+.img-section img {
+  margin: 0 auto; }
 
 .choose__city_title {
   text-align: center; }
 
 hr.left {
   display: inline-block;
-  width: 46%; }
+  width: 42%; }
 
 hr.right {
   display: inline-block;
-  width: 46%; }
+  width: 42%; }
 
 .choose__city_cities {
   padding-top: 20px;
@@ -2124,6 +2237,61 @@ hr.right {
 
 .event_img {
   width: 100%; }
+
+.event_descr_title {
+  font-family: 'Micra-Bold', sans-serif;
+  font-size: 29px;
+  color: #fff; }
+
+.city__event_descr hr {
+  border: 0;
+  clear: both;
+  display: inline-block;
+  width: 120px;
+  background-color: #fff;
+  height: 5px; }
+
+.event_descr_text {
+  font-family: 'Pragmatica', sans-serif;
+  color: #fff;
+  font-size: 16px;
+  width: 70%; }
+
+.choose__city_title h1 {
+  text-transform: uppercase;
+  font-family: 'Pragmatica', sans-serif;
+  background: -webkit-linear-gradient(45deg, #1f5da5, #6e1b6c, #c20d19);
+  background: -o-linear-gradient(45deg, #1f5da5, #6e1b6c, #c20d19);
+  background: linear-gradient(45deg, #1f5da5, #6e1b6c, #c20d19);
+  font-size: 26px;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 600;
+  line-height: 200px;
+  display: inline-block;
+  margin: 0 auto;
+  padding-left: 1%;
+  padding-right: 1%; }
+
+.bordered:after {
+  content: '';
+  position: absolute;
+  top: 25%;
+  width: 20%;
+  border-right: 1px solid #adb2ba;
+  content: "";
+  right: 0;
+  width: 0;
+  height: 33%; }
+
+a.city_link {
+  color: #000;
+  font-family: 'Micra', sans-serif;
+  font-weight: 600; }
+
+a.city_link:hover {
+  color: #000;
+  text-decoration: none; }
 
 /*==========  Desktop First  ==========*/
 /*==========  Mobile First  ==========*/
