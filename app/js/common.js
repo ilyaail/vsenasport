@@ -6,4 +6,11 @@ $(function() {
         nextArrow:"<i class='slick-next next' aria-hidden='true'></i>"
 	});
 
+$(document).ready(function(){
+$('.event__slider').slick({
+	arrows: true
+})
+});
+		
+
 });
