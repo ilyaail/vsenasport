@@ -2258,20 +2258,14 @@ hr.right {
   width: 70%; }
 
 .choose__city_title h1 {
-  text-transform: uppercase;
-  font-family: 'Pragmatica', sans-serif;
-  background: -webkit-linear-gradient(45deg, #1f5da5, #6e1b6c, #c20d19);
-  background: -o-linear-gradient(45deg, #1f5da5, #6e1b6c, #c20d19);
-  background: linear-gradient(45deg, #1f5da5, #6e1b6c, #c20d19);
-  font-size: 26px;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  font-weight: 600;
-  line-height: 200px;
-  display: inline-block;
-  margin: 0 auto;
-  padding-left: 1%;
-  padding-right: 1%; }
+
+
+
+}
+span.city{
+
+    padding:0 10px; 
+}
 
 .bordered:after {
   content: '';
@@ -2292,6 +2286,56 @@ a.city_link {
 a.city_link:hover {
   color: #000;
   text-decoration: none; }
+.fancy {
+  line-height: 0.5;
+  text-align: center;
+}
+.fancy span {
+  
+  position: relative; 
+    text-transform: uppercase;
+  font-family: 'Pragmatica', sans-serif;
+  background: -webkit-linear-gradient(45deg, #1f5da5, #6e1b6c, #c20d19);
+  background: -o-linear-gradient(45deg, #1f5da5, #6e1b6c, #c20d19);
+  background: linear-gradient(45deg, #1f5da5, #6e1b6c, #c20d19);
+  font-size: 26px; 
+    -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 600;
+  line-height: 200px;
+}
+.fancy span:before,
+.fancy span:after {
+  content: "";
+  position: absolute;
+  height: 13px;
+  border-bottom: 1px solid #000;
+ 
+  top: 0;
+  width: 600px;
+}
+.fancy span:before {
+  right: 100%;
+  margin-right: 15px;
+  width:100vw;
+}
+.fancy span:after {
+  left: 100%;
+  margin-left: 15px;
+  width:100vw;
+}
+.event__slider div img{
+  
+  margin: 0 auto;
+}
+.event__slider{
+  width:80%;
+  margin:0 auto;
+}
+
+
+
+
 
 /*==========  Desktop First  ==========*/
 /*==========  Mobile First  ==========*/
