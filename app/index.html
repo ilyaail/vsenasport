@@ -26,6 +26,7 @@
 	<link rel="stylesheet" href="libs/bootstrap/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
 	<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+	<link href="libs/hamburger/dist/hamburgers.css" rel="stylesheet">
 
 
 </head>
@@ -40,6 +41,11 @@
             <a href="home.html" class="header__logo">
                 <img src="img/logo.png" alt="Softline">
             </a>
+
+
+
+
+
             <div class="right-nav">
            <div class="dropdown__city">
            	<div class="dropdown">
@@ -56,24 +62,47 @@
 </div>
 <a href="#" class="calendar">Календарь мероприятий</a>
 </div>
-            <a href="#" class="header__nav-toggle">
-                <span></span>
-                <span></span>
-                <span></span>
-            </a>
-        
+
+
+
+
+
+<nav class="header__nav">
+                     <div class="dropdown__city">
+           	<div class="dropdown">
+  <button class="btn btn-cities dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+   Города
+  </button>
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+    <a class="dropdown-item" href="#">Старый оскол</a>
+    <a class="dropdown-item" href="#">Губкин</a>
+    <a class="dropdown-item" href="#">Железногорск</a>
+    <a class="dropdown-item" href="#">Новотроицк</a>
+  </div>
+</div>
+</div>
+            </nav>
+
+
+
+
+<button class="hamburger hamburger--slider" type="button" id="hamburger-menu">
+			  <span class="hamburger-box">
+			    <span class="hamburger-inner"></span>
+			  </span>
+			</button>
     </div>
     </div>
 </header>
 <section id="section0" class="img-section"><img src="img/header-img.png" alt="" class="img-responsive"></section>
 <section id="section1" class="section-wrap main-section choose__city">
 	<div class="choose__city_title">
-	<p class="subtitle fancy"><span>Выбери город</span></p>
+	<p class="subtitle fancyy"><span>Выбери город</span></p>
 	</div>
 	<div class="choose__city_cities">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-3">
+				<div class="col-lg-3 col-sm-6 col-xs-6">
 					<div class="bordered__normal">
 					<a href="" class="city_link">
 				<img src="img/old_oskol.png" alt="">
@@ -81,20 +110,20 @@
 				</a>
 </div>	
 		</div>
-		<div class="col-lg-3 bordered">
+		<div class="col-lg-3 col-sm-6 col-xs-6 bordered">
 				<a href="" class="city_link">
 				<img src="img/gubkin.png" alt="">
 				<p class="city_name">Губкин</p>
 				</a>
 		</div>
-		<div class="col-lg-3 bordered__normal">
-			
+		<div class="col-lg-3 col-sm-6 col-xs-6 bordered__normal">
+
 				<a href="" class="city_link">
 				<img src="img/zheleznogorsk.png" alt="">
 				<p class="city_name">Железногорск</p>
 				</a>
 		</div>
-		<div class="col-lg-3 bordered">
+		<div class="col-lg-3 col-sm-6 col-xs-6 bordered">
 				<a href="" class="city_link">
 				<img src="img/novotroitsk.png" alt="">
 				<p class="city_name">Новотроицк</p>
@@ -130,7 +159,7 @@
 </section>
 <section id="section2" class="event__section">
 		<div class="event__section_title">
-	<p class="subtitle fancy"><span>Мероприятия</span></p>
+	<p class="subtitle fancyy"><span>Мероприятия</span></p>
 	</div>
 	<div class="slider-container">
 		<div class="event__slider">
@@ -155,7 +184,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-lg-6">
+			<div class="col-lg-6 border-b">
 				<div class="footer__item">
 					<h2 class="footer__item_title">
 						Партнеры проекта:
@@ -199,3 +228,5 @@
 
 </body>
 </html>
+
+
