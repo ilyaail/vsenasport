@@ -13,6 +13,27 @@
 
 @font-face {
   font-family: "roboto-example";
+  font-weight: normal;
+  font-style: normal;
+  src: font-url("../fonts/RobotoRegular/RobotoRegular.eot");
+  src: font-url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix") format("embedded-opentype"), font-url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"), font-url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "roboto-example";
+  font-weight: normal;
+  font-style: normal;
+  src: font-url("../fonts/RobotoRegular/RobotoRegular.eot");
+  src: font-url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix") format("embedded-opentype"), font-url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"), font-url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "roboto-example";
+  font-weight: normal;
+  font-style: normal;
+  src: font-url("../fonts/RobotoRegular/RobotoRegular.eot");
+  src: font-url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix") format("embedded-opentype"), font-url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"), font-url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "roboto-example";
   font-weight: bold;
   font-style: normal;
   src: url("../fonts/RobotoBold/RobotoBold.eot");
@@ -23,6 +44,27 @@
   font-weight: bold;
   font-style: normal;
   src: font-url "../fonts/RobotoBold/RobotoBold.woff"; }
+
+@font-face {
+  font-family: "roboto-example";
+  font-weight: bold;
+  font-style: normal;
+  src: font-url("../fonts/RobotoBold/RobotoBold.eot");
+  src: font-url("../fonts/RobotoBold/RobotoBold.eot?#iefix") format("embedded-opentype"), font-url("../fonts/RobotoBold/RobotoBold.woff") format("woff"), font-url("../fonts/RobotoBold/RobotoBold.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "roboto-example";
+  font-weight: bold;
+  font-style: normal;
+  src: font-url("../fonts/RobotoBold/RobotoBold.eot");
+  src: font-url("../fonts/RobotoBold/RobotoBold.eot?#iefix") format("embedded-opentype"), font-url("../fonts/RobotoBold/RobotoBold.woff") format("woff"), font-url("../fonts/RobotoBold/RobotoBold.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "roboto-example";
+  font-weight: bold;
+  font-style: normal;
+  src: font-url("../fonts/RobotoBold/RobotoBold.eot");
+  src: font-url("../fonts/RobotoBold/RobotoBold.eot?#iefix") format("embedded-opentype"), font-url("../fonts/RobotoBold/RobotoBold.woff") format("woff"), font-url("../fonts/RobotoBold/RobotoBold.ttf") format("truetype"); }
 
 @font-face {
   font-family: "Pragmatica";
@@ -36,6 +78,129 @@
   font-weight: normal;
   font-style: normal;
   src: font-url "../fonts/Pragmatica/Pragmatica.woff"; }
+
+@font-face {
+  font-family: "Pragmatica";
+  font-weight: normal;
+  font-style: normal;
+  src: font-url("../fonts/Pragmatica/Pragmatica.eot");
+  src: font-url("../fonts/Pragmatica/Pragmatica.eot?#iefix") format("embedded-opentype"), font-url("../fonts/Pragmatica/Pragmatica.woff") format("woff"), font-url("../fonts/Pragmatica/Pragmatica.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Pragmatica";
+  font-weight: normal;
+  font-style: normal;
+  src: font-url("../fonts/Pragmatica/Pragmatica.eot");
+  src: font-url("../fonts/Pragmatica/Pragmatica.eot?#iefix") format("embedded-opentype"), font-url("../fonts/Pragmatica/Pragmatica.woff") format("woff"), font-url("../fonts/Pragmatica/Pragmatica.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Pragmatica";
+  font-weight: normal;
+  font-style: normal;
+  src: font-url("../fonts/Pragmatica/Pragmatica.eot");
+  src: font-url("../fonts/Pragmatica/Pragmatica.eot?#iefix") format("embedded-opentype"), font-url("../fonts/Pragmatica/Pragmatica.woff") format("woff"), font-url("../fonts/Pragmatica/Pragmatica.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Micra-Bold";
+  font-weight: normal;
+  font-style: normal;
+  src: url("../fonts/Micra/Micra-Bold.eot");
+  src: url("../fonts/Micra/Micra-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/Micra/Micra-Bold.woff") format("woff"), url("../fonts/Micra/Micra-Bold.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Micra-Bold";
+  font-weight: normal;
+  font-style: normal;
+  src: font-url "../fonts/Micra/Micra-Bold.woff"; }
+
+@font-face {
+  font-family: "Micra-Bold";
+  font-weight: normal;
+  font-style: normal;
+  src: font-url("../fonts/Micra/Micra-Bold.eot");
+  src: font-url("../fonts/Micra/Micra-Bold.eot?#iefix") format("embedded-opentype"), font-url("../fonts/Micra/Micra-Bold.woff") format("woff"), font-url("../fonts/Micra/Micra-Bold.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Micra-Bold";
+  font-weight: normal;
+  font-style: normal;
+  src: font-url("../fonts/Micra/Micra-Bold.eot");
+  src: font-url("../fonts/Micra/Micra-Bold.eot?#iefix") format("embedded-opentype"), font-url("../fonts/Micra/Micra-Bold.woff") format("woff"), font-url("../fonts/Micra/Micra-Bold.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Micra-Bold";
+  font-weight: normal;
+  font-style: normal;
+  src: font-url("../fonts/Micra/Micra-Bold.eot");
+  src: font-url("../fonts/Micra/Micra-Bold.eot?#iefix") format("embedded-opentype"), font-url("../fonts/Micra/Micra-Bold.woff") format("woff"), font-url("../fonts/Micra/Micra-Bold.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Micra";
+  font-weight: normal;
+  font-style: normal;
+  src: url("../fonts/Micra/Micra.eot");
+  src: url("../fonts/Micra/Micra.eot?#iefix") format("embedded-opentype"), url("../fonts/Micra/Micra.woff") format("woff"), url("../fonts/Micra/Micra.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Micra";
+  font-weight: normal;
+  font-style: normal;
+  src: font-url "../fonts/Micra/Micra.woff"; }
+
+@font-face {
+  font-family: "Micra";
+  font-weight: normal;
+  font-style: normal;
+  src: font-url("../fonts/Micra/Micra.eot");
+  src: font-url("../fonts/Micra/Micra.eot?#iefix") format("embedded-opentype"), font-url("../fonts/Micra/Micra.woff") format("woff"), font-url("../fonts/Micra/Micra.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Micra";
+  font-weight: normal;
+  font-style: normal;
+  src: font-url("../fonts/Micra/Micra.eot");
+  src: font-url("../fonts/Micra/Micra.eot?#iefix") format("embedded-opentype"), font-url("../fonts/Micra/Micra.woff") format("woff"), font-url("../fonts/Micra/Micra.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Micra";
+  font-weight: normal;
+  font-style: normal;
+  src: font-url("../fonts/Micra/Micra.eot");
+  src: font-url("../fonts/Micra/Micra.eot?#iefix") format("embedded-opentype"), font-url("../fonts/Micra/Micra.woff") format("woff"), font-url("../fonts/Micra/Micra.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "DinProL";
+  font-weight: normal;
+  font-style: normal;
+  src: url("../fonts/DinProLight/DinPro.eot");
+  src: url("../fonts/DinProLight/DinPro.eot?#iefix") format("embedded-opentype"), url("../fonts/DinProLight/DinPro.woff") format("woff"), url("../fonts/DinProLight/DinPro.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "DinProL";
+  font-weight: normal;
+  font-style: normal;
+  src: font-url "../fonts/DinProLight/DinPro.woff"; }
+
+@font-face {
+  font-family: "DinProL";
+  font-weight: normal;
+  font-style: normal;
+  src: font-url("../fonts/DinProLight/DinPro.eot");
+  src: font-url("../fonts/DinProLight/DinPro.eot?#iefix") format("embedded-opentype"), font-url("../fonts/DinProLight/DinPro.woff") format("woff"), font-url("../fonts/DinProLight/DinPro.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "DinProL";
+  font-weight: normal;
+  font-style: normal;
+  src: font-url("../fonts/DinProLight/DinPro.eot");
+  src: font-url("../fonts/DinProLight/DinPro.eot?#iefix") format("embedded-opentype"), font-url("../fonts/DinProLight/DinPro.woff") format("woff"), font-url("../fonts/DinProLight/DinPro.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "DinProL";
+  font-weight: normal;
+  font-style: normal;
+  src: font-url("../fonts/DinProLight/DinPro.eot");
+  src: font-url("../fonts/DinProLight/DinPro.eot?#iefix") format("embedded-opentype"), font-url("../fonts/DinProLight/DinPro.woff") format("woff"), font-url("../fonts/DinProLight/DinPro.ttf") format("truetype"); }
 
 /*!
  * Bootstrap Reboot v4.0.0 (https://getbootstrap.com)
@@ -2023,7 +2188,8 @@ strong {
   float: right; }
 
 .header__row {
-  padding-top: 45px; }
+  padding-top: 20px;
+  padding-bottom: 20px; }
 
 .btn-cities {
   background: transparent; }
@@ -2096,19 +2262,35 @@ strong {
   color: #000; }
 
 .header {
-  background: url("../img/header-img.png") center 15% no-repeat;
-  height: 100vh; }
+  height: 100px; }
+
+.sticky-header {
+  position: fixed;
+  width: 100%;
+  z-index: 999;
+  background-color: rgba(255, 255, 255, 0.95);
+  border-radius: 5px;
+  -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+  opacity: 1;
+  -webkit-transition: opacity .2s;
+  -o-transition: opacity .2s;
+  transition: opacity .2s;
+  will-change: opacity; }
+
+.img-section img {
+  margin: 0 auto; }
 
 .choose__city_title {
   text-align: center; }
 
 hr.left {
   display: inline-block;
-  width: 46%; }
+  width: 42%; }
 
 hr.right {
   display: inline-block;
-  width: 46%; }
+  width: 42%; }
 
 .choose__city_cities {
   padding-top: 20px;
@@ -2124,6 +2306,231 @@ hr.right {
 
 .event_img {
   width: 100%; }
+
+.event_descr_title {
+  font-family: 'Micra-Bold', sans-serif;
+  font-size: 29px;
+  color: #fff; }
+
+.city__event_descr hr {
+  border: 0;
+  clear: both;
+  display: inline-block;
+  width: 100px;
+  background-color: #fff;
+  height: 5px; }
+
+.event_descr_text {
+  font-family: 'Pragmatica', sans-serif;
+  color: #fff;
+  font-size: 16px;
+  width: 70%; }
+
+.choose__city_title h1 {
+  text-transform: uppercase;
+  font-family: 'Pragmatica', sans-serif;
+  background: -webkit-linear-gradient(45deg, #1f5da5, #6e1b6c, #c20d19);
+  background: -o-linear-gradient(45deg, #1f5da5, #6e1b6c, #c20d19);
+  background: linear-gradient(45deg, #1f5da5, #6e1b6c, #c20d19);
+  font-size: 26px;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 600;
+  line-height: 200px;
+  display: inline-block;
+  margin: 0 auto;
+  padding-left: 1%;
+  padding-right: 1%; }
+
+.bordered__normal:after {
+  content: '';
+  position: absolute;
+  top: 25%;
+  width: 20%;
+  border-right: 1px solid #adb2ba;
+  content: "";
+  right: 0;
+  width: 0;
+  height: 33%; }
+
+.bordered:after {
+  content: '';
+  position: absolute;
+  top: 25%;
+  width: 20%;
+  border-right: 1px solid #adb2ba;
+  content: "";
+  right: 0;
+  width: 0;
+  height: 33%; }
+
+.bordered {
+  position: relative; }
+
+.bordered .city_link {
+  position: absolute;
+  right: 0;
+  left: 0;
+  bottom: 0; }
+
+a.city_link {
+  color: #000;
+  font-family: 'Micra', sans-serif;
+  font-weight: 600; }
+
+a.city_link:hover {
+  color: #0087c3;
+  text-decoration: none; }
+
+.bordered.bottom {
+  position: absolute;
+  right: 0;
+  left: 0;
+  bottom: 0; }
+
+.bordered.bottom:after {
+  position: absolute;
+  top: 10%;
+  width: 20%;
+  border-right: 1px solid #adb2ba;
+  content: "";
+  right: 0;
+  width: 0;
+  height: 40%; }
+
+.bordered.bottom:last-of-type:after {
+  content: none; }
+
+.fancy {
+  line-height: 0.5;
+  text-align: center; }
+
+.fancy span {
+  position: relative;
+  text-transform: uppercase;
+  font-family: 'Pragmatica', sans-serif;
+  background: -webkit-linear-gradient(45deg, #1f5da5, #6e1b6c, #c20d19);
+  background: -o-linear-gradient(45deg, #1f5da5, #6e1b6c, #c20d19);
+  background: linear-gradient(45deg, #1f5da5, #6e1b6c, #c20d19);
+  font-size: 26px;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 600;
+  line-height: 40px; }
+
+.fancy span:before,
+.fancy span:after {
+  content: "";
+  position: absolute;
+  height: 13px;
+  border-bottom: 1px solid #000;
+  top: 0;
+  width: 600px; }
+
+.fancy span:before {
+  right: 100%;
+  margin-right: 15px;
+  width: 100vw; }
+
+.fancy span:after {
+  left: 100%;
+  margin-left: 15px;
+  width: 100vw; }
+
+.event__slider div img {
+  margin: 0 auto; }
+
+.event__slider {
+  width: 80%;
+  margin: 0 auto; }
+
+.next {
+  border-bottom: 4px solid;
+  border-left: 4px solid;
+  -webkit-transform: rotate(-135deg);
+  -ms-transform: rotate(-135deg);
+  transform: rotate(-135deg);
+  right: 25%;
+  width: 40px;
+  z-index: 10;
+  height: 40px;
+  border-color: #6e1b6c;
+  position: absolute;
+  top: 50%;
+  cursor: pointer; }
+
+.prev {
+  border-bottom: 4px solid;
+  border-left: 4px solid;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+  left: 25%;
+  width: 40px;
+  height: 40px;
+  border-color: #6e1b6c;
+  position: absolute;
+  top: 50%;
+  z-index: 10;
+  cursor: pointer; }
+
+.next:hover {
+  border-color: #0087c3; }
+
+.prev:hover {
+  border-color: #0087c3; }
+
+.footer {
+  background: -webkit-linear-gradient(45deg, #1f5da5, #6e1b6c, #c20d19);
+  background: -o-linear-gradient(45deg, #1f5da5, #6e1b6c, #c20d19);
+  background: linear-gradient(45deg, #1f5da5, #6e1b6c, #c20d19);
+  min-height: 525px;
+  height: auto; }
+
+.footer__item_title {
+  font-family: 'Pragmatica', sans-serif;
+  font-size: 14px;
+  text-align: center;
+  color: #ad84ad;
+  padding-bottom: 45px; }
+
+.footer__item {
+  padding-top: 65px;
+  width: 70%; }
+
+.social_link {
+  color: #ad84ad;
+  font-size: 23px; }
+
+.social_link:hover {
+  color: white; }
+
+.social__list_item {
+  display: inline-block;
+  margin-left: 22px; }
+
+.social {
+  text-align: center;
+  padding-top: 120px; }
+
+.copyright {
+  font-family: 'DinProL', sans-serif;
+  font-size: 14px;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 55px;
+  color: #fff; }
+
+.copyright_second {
+  font-family: 'DinProL', sans-serif;
+  font-size: 14px;
+  text-align: center;
+  color: #ad84ad;
+  font-weight: 600;
+  padding-bottom: 70px; }
+
+.bordered:last-child:after {
+  border-right: none; }
 
 /*==========  Desktop First  ==========*/
 /*==========  Mobile First  ==========*/
