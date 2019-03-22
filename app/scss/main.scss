@@ -160,7 +160,9 @@ hr.right {
 .city__event {
   height: 100%;
   min-height: 700px;
-  background: url("../img/background2.png") center center no-repeat; }
+  background: url("../img/background2.png") center center no-repeat;
+  
+  background-size: cover; }
 
 .event_box {
   padding-top: 15%; }
@@ -508,6 +510,7 @@ a.calendar__block_item:hover{
 
 .img-section_calendar{
   background: url('/img/calendar_background.png') center center no-repeat;
+  background-size: cover;
   height: 100%;
 }
 
@@ -565,4 +568,65 @@ color: #fff;
 .partner_2{
   width: 40%;
 }
+
+.img-section_city{
+  background:url('/img/city_bg.png') center center no-repeat;
+  height: 100%;
+}
+
+.city__name_title{
+  display: inline-block;
+  font-family: 'Micra-Bold', sans-serif;
+  font-size: 40px;
+  vertical-align: middle;
+  margin-bottom: 0;
+  padding-left: 5%;
+
+}
+.city__name{
+  padding-top: 40px;
+  text-align: center;
+}
+
+.city__banner{
+  text-align: center;
+}
+.content{
+  padding-bottom: 40px;
+  margin: 0 auto;
+}
+
+
+
+.content {
+  position: relative;
+  width: 100%;
+  max-width: 100%;
+
+}
+.content-image{
+      margin: 0 auto;
+}
+.content .content-overlay {
+  background: rgba(112,26,107, 0.3);
+  position: absolute;
+  height: 92%;
+      width: 85%;
+    left: 7.5%;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  opacity: 0;
+  -webkit-transition: all 0.4s ease-in-out 0s;
+  -moz-transition: all 0.4s ease-in-out 0s;
+  transition: all 0.4s ease-in-out 0s;
+  overflow: hidden;
+}
+
+.content:hover .content-overlay{
+  opacity: 1;
+}
+
+
+
 @import "media"; // Always at the end
