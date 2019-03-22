@@ -39,7 +39,7 @@
     <div class="container">
         <div class="header__row ">
             <a href="home.html" class="header__logo">
-                <img src="img/logo.png" alt="Softline">
+                <img src="img/logo.png" class="mobile-logo" alt="">
             </a>
 
 
@@ -69,16 +69,20 @@
 
 <nav class="header__nav">
                      <div class="dropdown__city">
-           	<div class="dropdown">
-  <button class="btn btn-cities dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+           
+ <ul class="cities__menu_list">
+ 	<p>
    Города
-  </button>
-  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-    <a class="dropdown-item" href="#">Старый оскол</a>
-    <a class="dropdown-item" href="#">Губкин</a>
-    <a class="dropdown-item" href="#">Железногорск</a>
-    <a class="dropdown-item" href="#">Новотроицк</a>
-  </div>
+</p>
+<li class="cities__menu_item"><a class="dropdown-item" href="#">Старый оскол</a></li>
+    
+   <li class="cities__menu_item"> <a class="dropdown-item" href="#">Губкин</a></li>
+   <li class="cities__menu_item"> <a class="dropdown-item" href="#">Железногорск</a></li>
+   <li class="cities__menu_item"> <a class="dropdown-item" href="#">Новотроицк</a></li>
+  
+</ul>
+<div class="calendar__block">
+<a href="#" class="calendar__block_item">Календарь мероприятий</a>
 </div>
 </div>
             </nav>
@@ -97,7 +101,9 @@
 <section id="section0" class="img-section"><img src="img/header-img.png" alt="" class="img-responsive"></section>
 <section id="section1" class="section-wrap main-section choose__city">
 	<div class="choose__city_title">
-	<p class="subtitle fancyy"><span>Выбери город</span></p>
+
+	</hr>
+	<p class="subtitle gradient"><span>Выбери город</span></p>
 	</div>
 	<div class="choose__city_cities">
 		<div class="container">
@@ -159,7 +165,7 @@
 </section>
 <section id="section2" class="event__section">
 		<div class="event__section_title">
-	<p class="subtitle fancyy"><span>Мероприятия</span></p>
+	<p class="subtitle gradient"><span>Мероприятия</span></p>
 	</div>
 	<div class="slider-container">
 		<div class="event__slider">
@@ -179,7 +185,7 @@
 						Организаторы проекта:
 					</h2>
 					<div class="image-block">
-					<img class="img-fluid" src="img/partner1.png" alt="">
+					<img class="img-fluid pt-4" src="img/partner1.png" alt="">
 					<img class="img-fluid float-right" src="img/partner2.png" alt="">
 					</div>
 				</div>
@@ -189,7 +195,7 @@
 					<h2 class="footer__item_title">
 						Партнеры проекта:
 					</h2>
-					<img class="img-fluid" src="img/partner3.png" alt="">
+					<img class="img-fluid pt-3" src="img/partner3.png" alt="">
 					<img class="img-fluid float-right" src="img/partner4.png" alt="">
 				</div>
 
