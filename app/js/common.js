@@ -33,3 +33,14 @@ var countHamb = 1;
 
 
 });
+
+$(document).ready(function()
+{
+	if ($(window).width() < 440) {
+		/* заменa логотипа */
+		console.log('less then 440');
+	$('.header__logo .mobile-logo').attr('src', 'img/mobile-logo.png');
+}
+
+
+	});
